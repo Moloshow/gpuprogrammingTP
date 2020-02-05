@@ -1,0 +1,29 @@
+fibo python: 
+real	0m10.078s pour 10^06
+sinon 3h+ pour 10^09
+
+
+matmul python:
+real	0m0.168s
+
+
+fibo cpu c++:
+real	0m3.261s
+
+
+MatMul CPU C++: 
+real	0m54.075s
+
+
+Code accum vecteurs C++ Classique 
+real	0m8.234s
+
+
+time g++ accumvecsse.cpp -lOpenCL
+real	0m4.808s
+
+
+
+
+
+
