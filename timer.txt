@@ -19,8 +19,15 @@ Code accum vecteurs C++ Classique
 real	0m8.234s
 
 
-time g++ accumvecsse.cpp -lOpenCL
+Code accumvecsse.cpp -lOpenCL
 real	0m4.808s
+
+MatMul c++ opencl:
+matrice trop grande pour tester
+
+
+fibo c++ opencl:
+real	+30min pour 10^9
 
 
 
